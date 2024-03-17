@@ -8,7 +8,6 @@ public class Main {
          a.aa();
          B b = new B();
          b.b();
-
     }
 
 
