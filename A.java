@@ -4,5 +4,6 @@ public class A {
     }
     public void aa(){
         System.out.println("aa manjiri");
+
     }
 }
