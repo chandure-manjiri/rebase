@@ -6,6 +6,7 @@ public class Main {
         System.out.println("chandure");
          A a = new A();
          a.a();
+         a.aa();
          B b = new B();
          b.b();
     }
