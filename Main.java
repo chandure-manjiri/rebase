@@ -8,7 +8,8 @@ public class Main {
          a.aa();
          B b = new B();
          b.b();
-
+         C c = new C();
+         c.c();
     }
 
 
