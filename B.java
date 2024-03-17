@@ -1,5 +1,5 @@
 public class B {
     public void b(){
-        System.out.println("B manjiri");
+        System.out.println("B C manjiri");
     }
 }
